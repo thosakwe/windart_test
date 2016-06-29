@@ -1,0 +1,10 @@
+name: windart_test
+dev_dependencies:
+  masm:
+    path: C:\Users\tobe\Source\Dart\masm
+  windart:
+    path: C:\Users\tobe\Source\Dart\windart
+transformers:
+  - windart
+  - masm:
+      run: true
